@@ -1,0 +1,18 @@
+# Site settings
+title: HVNGRY
+email: serenadantingchen@gmail.com
+description: For those who make their own heroes.
+baseurl: ""
+url: "https://hvngrymag.com"
+twitter_username: hvngrymag
+github_username:  heisenburger
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:year/:month/:day/:title/
+
+# Post settings
+excerpt_separator: <!--more-->

@@ -1,0 +1,35 @@
+
+
+// Entry
+
+@keyframes fadefrombottom {
+  0% {
+      opacity: 0;
+      transform: translateY(4rem);
+  }
+  100% {
+      opacity: 1;
+      transform: translateY(0px);
+  }
+}
+
+.enter-frombottom {
+  animation: fadefrombottom 500ms;
+}
+
+@keyframes fade {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+  }
+}
+
+.enter-fade {
+  animation: fade 500ms;
+}
+
+.enter-fade-slow {
+  animation: fade 3800ms;
+}

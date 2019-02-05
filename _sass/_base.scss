@@ -1,0 +1,87 @@
+// Reset
+
+* {
+  box-sizing: border-box;
+  &:focus {
+    @include highlight;
+  }
+}
+
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+
+// Base
+
+html {
+  font-size: 16px;
+  @include query($bp-2xl){
+    font-size: 20px;
+  }
+  @include query($bp-3xl){
+    font-size: 24px;
+  }
+}
+
+body {
+  font-family: var(--ff-sans);
+  line-height: 1.5;
+  color: var(--grey2);
+  background-color: white;
+  -webkit-text-size-adjust: 100%;
+  font-feature-settings: "kern" 1,"liga" 1,"calt" 1,"pnum" 1,"tnum" 0,"onum" 1,"lnum" 0,"dlig" 0;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+}
+
+.inverted {
+  color: white;
+  background-color: black;
+}
+
+.inverted .inverted {
+  color: black;
+  background-color: white;
+}
+
+.hidden { 
+  // https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+// Images
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  color: transparent;
+}
+
+// Figure
+
+figure > img {
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-size: var(--f-sml);
+  text-align: center;
+}
+
+// Lists
+
+.nls {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
