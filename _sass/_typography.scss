@@ -280,6 +280,25 @@ a {
 
 // Reading
 
+article {
+  p {
+    @extend .measure;
+    @extend .block-center;
+  }
+  li {
+    @extend .measure;
+    @extend .block-center;
+  }
+  blockquote {
+    @extend .block-center;
+    max-width: $content-width;
+  }
+  h2, h3, h4, h5, h6, hr {
+    @extend .measure;
+    @extend .block-center;
+  }
+}
+
 .easyread {
   @extend .serif;
   font-size: var(--f-semi);
@@ -287,27 +306,17 @@ a {
     font-size: var(--f-lrg);
   }
   > p {
-    @extend .measure;
-    @extend .block-center;
     line-height: 1.8em;
     margin-top: 1.25em;
     margin-bottom: 1.25em;
   }
   li {
-    @extend .measure;
-    @extend .block-center;
     margin: 0.75em 0;
   }
   blockquote {
     @extend .italic;
-    @extend .block-center;
-    max-width: $content-width;
     font-size: var(--f-2xl);
     color: var(--grey1);
-  }
-  h2, h3, h4, h5, h6, hr {
-    @extend .measure;
-    @extend .block-center;
   }
 }
 

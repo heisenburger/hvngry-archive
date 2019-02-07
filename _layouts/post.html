@@ -26,7 +26,7 @@
           <h2 class="serif italic light f-2xl">People are saying...</h2>
           <ul class="nls">
             {% for comment in page.comments %}
-              <li class="easyread measure f-left vp-4">
+              <li class="easyread measure vp-4">
                 <p><span class="drop-cap">“</span>{{ comment.content }}</p>
                 <p class="text-right italic">—{{ comment.author }}, <br>{{ comment.date | date: "%A %B %-d %Y, %I:%M %p"}}</p>
               </li>
