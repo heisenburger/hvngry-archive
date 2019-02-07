@@ -9,16 +9,24 @@
     <main>
       <article class="black vp-8">
 
-        <header class="constrain block-center enter-frombottom">
+        <header class="constrain">
           <h1 class="serif f-2xh thin tight">{{ page.title }}</h1>
-          <p class="caps sans text-right">{{ page.date | date: "%A %B %-d %Y"}}</p>
-          <p class="caps sans">by {{ page.author.display_name }}</p>
+          <div class="vp-2">
+            <div class="caps sans text-right">{{ page.date | date: "%A %B %-d %Y"}}</div>
+            <div class="caps sans">by {{ page.author.display_name }}</div>
+          </div>
+          
         </header>
 
         <section class="easyread vp-8">
           {{ content }}
         </section>
 
+        <section class="constrain">
+          <div class="vp-2">
+            <div class="caps sans text-center">by <a href="mailto:{{ page.author.email }}">{{ page.author.display_name }}</a></div>
+          </div>
+        </section>
       </article>
 
       {% if page.comments[0] %}
@@ -36,6 +44,8 @@
       {% endif %}
     
     </main>
+
+    <hr>
 
     {% include footer.html %}
 

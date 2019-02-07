@@ -217,15 +217,21 @@
 
 .above {
   position: relative;
-  top: -5em;
+  top: 0;
   overflow: hidden;
+  @include query($bp-lrg){
+    top: calc(-7 * var(--unit));
+  }
 }
 
 .below {
   position: relative;
-  top: 5em;
+  top: 0;
   overflow: hidden;
-  max-height: var(--f-2xh);
+  @include query($bp-med){
+    top: calc(8 * var(--unit));
+    max-height: var(--f-2xl);
+  }
 }
 
 hr {
@@ -235,5 +241,30 @@ hr {
 }
 
 ul, ol {
-  margin-left: var(--u8);
+  margin-left: var(--u2);
+  @include query($bp-med){
+    margin-left: var(--u4);
+  }
+}
+
+// Reading
+
+article {
+  p {
+    @extend .measure;
+    @extend .block-center;
+  }
+  ul, ol {
+    @extend .measure;
+    @extend .block-center;
+  }
+  blockquote {
+    @extend .block-center;
+    max-width: $content-width;
+  }
+  h2, h3, h4, h5, h6, hr {
+    margin-top: 1.5em;
+    @extend .measure;
+    @extend .block-center;
+  }
 }

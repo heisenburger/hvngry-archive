@@ -69,12 +69,17 @@ img {
 
 // Figure
 
+figure {
+  @extend .constrain;
+}
+
 figure > img {
   display: block;
   margin: 0 auto;
 }
 
 figcaption {
+  @extend .vp-2;
   font-size: var(--f-sml);
   text-align: center;
 }

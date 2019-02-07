@@ -280,25 +280,6 @@ a {
 
 // Reading
 
-article {
-  p {
-    @extend .measure;
-    @extend .block-center;
-  }
-  li {
-    @extend .measure;
-    @extend .block-center;
-  }
-  blockquote {
-    @extend .block-center;
-    max-width: $content-width;
-  }
-  h2, h3, h4, h5, h6, hr {
-    @extend .measure;
-    @extend .block-center;
-  }
-}
-
 .easyread {
   @extend .serif;
   font-size: var(--f-semi);
@@ -311,11 +292,18 @@ article {
     margin-bottom: 1.25em;
   }
   li {
-    margin: 0.75em 0;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
   }
   blockquote {
     @extend .italic;
-    font-size: var(--f-2xl);
+    font-size: var(--f-lrg);
+    @include query($bp-med){
+      font-size: var(--f-xlg);
+    }
+    @include query($bp-lrg){
+      font-size: var(--f-2xl);
+    }
     color: var(--grey1);
   }
 }

@@ -1,0 +1,4 @@
+sed -i -e 's/ width="[[:digit:]]\+%\?"//g' _posts/*.html
+sed -i -e 's/ height="[[:digit:]]\+%\?"//g' _posts/*.html
+sed -i -e 's/ width="auto"//g' _posts/*.html
+sed -i -e 's/ height="auto"//g' _posts/*.html
