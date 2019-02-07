@@ -3,32 +3,4 @@ title: HVNGRY
 layout: landing
 ---
 
-{% for post in paginator.posts %}
-
-  <article class="constrain black vp-8">
-    <a href="{{ post.url }}">
-      <img src="/images/{{ post.featureimg }}" class="cover"/>
-      <p class="sans caps text-center vp-2">From {{ post.author.display_name }}</p>
-      <h2 class="f-xhr serif light italic text-center">{{ post.title }}</h2>
-    </a>
-  </article>
-
-{% endfor %}
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
+{% include post-list.html %}

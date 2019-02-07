@@ -262,7 +262,7 @@ h1, h2, h3, h4, blockquote,
 // Links
 
 a {
-  color: var(--grey2);
+  color: var(--grey1);
   text-decoration: none;
   background-color: transparent;
   background-image: -webkit-linear-gradient(transparent -300%,currentColor 600%);
@@ -286,16 +286,33 @@ a {
   @include query($bp-lrg){
     font-size: var(--f-lrg);
   }
-  p {
-    line-height: 1.7em;
+  > p {
+    @extend .measure;
+    @extend .block-center;
+    line-height: 1.8em;
     margin-top: 1.25em;
     margin-bottom: 1.25em;
   }
   li {
+    @extend .measure;
+    @extend .block-center;
     margin: 0.75em 0;
   }
   blockquote {
     @extend .italic;
-    color: var(--grey2);
+    @extend .block-center;
+    max-width: $content-width;
+    font-size: var(--f-2xl);
+    color: var(--grey1);
   }
+  h2, h3, h4, h5, h6 {
+    @extend .measure;
+    @extend .block-center;
+  }
+}
+
+// WP corrections
+
+p small {
+  line-height: 1;
 }

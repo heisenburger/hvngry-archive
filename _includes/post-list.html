@@ -1,12 +1,38 @@
-{% for post in paginator.posts %}
-test
-  <article class="constrain">
-    <a href="{{ post.url }}">
-      <img src="/images/{{ post.featureimg }}"/>
-      <p class="caps text-center">From {{ post.author.display_name }}</p>
-      <h2 class="f-xhr display text-center">{{ post.title }}</h2>
+{% assign posts = paginator.posts %}
+{% for post in posts %}
+  
+  {% if post.layout == "guest-author" %}
+
+  {% elsif post.layout == "nav_menu_item" %}
+
+  {% else %}
+
+  <article class="black vp-8">
+    <a href="{{ post.url }}" class="sneakylink block">
+      <img src="{{ post.feature }}" class="cover featured-image block-center"/>
+      <p class="sans caps text-center vp-2">From {{ post.author.display_name }}</p>
+      <h2 class="f-hero serif regular italic text-center">{{ post.title }}</h2>
     </a>
   </article>
 
+  {% endif %}
+
 {% endfor %}
-test
+
+<div class="constrain text-center sans caps vp-4">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      ← Previous
+    </a>
+  {% else %}
+    <span class="previous"></span>
+  {% endif %}
+  <span style="padding: 0 1rem;">
+    {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next →</a>
+  {% else %}
+    <span class="next "></span>
+  {% endif %}
+</div>

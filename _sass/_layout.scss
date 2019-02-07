@@ -75,7 +75,8 @@
 
 .block-center {
   width: 100%;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   padding-left: var(--u2);
   padding-right: var(--u2);
   @include query($bp-med){
@@ -113,6 +114,10 @@
 
 .anchor-position {
   @include anchor-position;
+}
+
+.f-left {
+  float: left;
 }
 
 .f-right {
@@ -201,4 +206,16 @@
   @include query($bp-sml) {
     display: inline;
   }
+}
+
+.featured-image {
+  display: block;
+  width: 100%;
+  max-width: 75rem;
+  height: 20rem;
+}
+
+.above {
+  position: relative;
+  top: -5em;
 }
