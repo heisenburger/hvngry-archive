@@ -9,15 +9,14 @@
 :root {
 
 // Fonts
-  --ff-sans: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Helvetica", 
-    "Arial", "Roboto", "Ubuntu", "Segoe UI", "Fira Sans", "Droid Sans", 
+  --ff-sans: "Nexa",
+    -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Helvetica",
     sans-serif;
-  --ff-serif: "Ivy Journal", "Adobe Caslon Pro", "Goudy Old Style", 
-    "Athelas", "Californian FB", "Georgia Pro", Georgia,
+  --ff-serif: "Georgia Pro", "GeorgiaRegular", Georgia,
     serif;
-  --ff-disp: "SangBleu Empire", "F37 Bella", "acta-display", "Questa Grande", "QuestaGrande", 
-    "Didot", "Didonesque", "Georgia Pro", Georgia, serif;
-  --ff-disp-sm: "SangBleu Kingdom", "Questa", "Georgia Pro", Georgia, serif;
+  --ff-disp: "SangBleu Empire", "F37 Bella",
+    "Didot", "Didonesque", "Georgia Pro", "GeorgiaRegular", Georgia, serif;
+  --ff-disp-sm: "SangBleu Kingdom", "Georgia Pro", "GeorgiaRegular", Georgia, serif;
 
 // Sizes
   --f-sml:  0.875rem; // 14px
@@ -63,7 +62,7 @@
   $bp-3xl: 2800px;
 
 // Widths
-  $content-width: 80rem;
+  $content-width: 60rem;
   $measure-width: 33em;
 
 
@@ -83,6 +82,20 @@
     @content;
   }
 }
+
+// font-face declarations
+@mixin declare-font($family, $weight: null, $style: null, $filename: $family){
+  @font-face {
+    font-family: $family;
+    src: url("/fonts/#{$filename}#{$weight}#{$style}.eot");
+    src: url("/fonts/#{$filename}#{$weight}#{$style}.eot?#iefix") format("embedded-opentype"), 
+         url("/fonts/#{$filename}#{$weight}#{$style}.woff") format("woff"), 
+         url("/fonts/#{$filename}#{$weight}#{$style}.svg") format("svg");
+    font-weight: $weight;
+    font-style: $style;
+  }
+}
+
 
 // CSS snippets
 // ------------
@@ -115,6 +128,15 @@
   flex-direction: column;
   justify-content: center;
 }
+
+// Font-face declarations
+// ----------------------
+@include declare-font("Nexa");
+@include declare-font("Nexa", bold);
+@include declare-font("GeorgiaRegular", 200);
+@include declare-font("GeorgiaRegular", 900);
+@include declare-font("GeorgiaRegular", 200, italic);
+@include declare-font("GeorgiaRegular", 900, italic);
 
 // Import partials
 // ---------------

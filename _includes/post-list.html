@@ -1,3 +1,12 @@
-{% for post in site.posts %}
-   
+{% for post in paginator.posts %}
+test
+  <article class="constrain">
+    <a href="{{ post.url }}">
+      <img src="/images/{{ post.featureimg }}"/>
+      <p class="caps text-center">From {{ post.author.display_name }}</p>
+      <h2 class="f-xhr display text-center">{{ post.title }}</h2>
+    </a>
+  </article>
+
 {% endfor %}
+test

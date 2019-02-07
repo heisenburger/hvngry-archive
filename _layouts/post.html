@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body class="enter-fade">
+
+    {% include header.html %}
+
+    <main>
+      <article>
+
+        <header class="block-center enter-frombottom black">
+          <h1 class="serif f-2xh light tight">{{ page.title }}</h1>
+          <p class="caps sans text-right">{{ page.date | date: "%A %B %-d %Y"}}</p>
+          <p class="caps sans">by {{ page.author.display_name }}</p>
+        </header>
+
+        <section class="constrain measure easyread vp-8 black">
+          {{ content }}
+        </section>
+
+      </article>
+    
+    </main>
+
+    {% include nav.html %}
+
+    {% include footer.html %}
+
+  </body>
+</html>

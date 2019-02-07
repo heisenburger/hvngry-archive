@@ -23,7 +23,7 @@
 .thin {
   font-weight: 100;
   @include query-down($bp-med){
-    font-weight: 300;
+    font-weight: 200;
   }
 }
 
@@ -72,14 +72,14 @@ small, .small, .f-sml {
 
 .f-lrg {
   font-size: var(--f-semi);
-  @include query($bp-sml){
+  @include query($bp-lrg){
     font-size: var(--f-lrg);
   }
 }
 
 .f-xlg {
   font-size: var(--f-lrg);
-  @include query($bp-sml){
+  @include query($bp-lrg){
     font-size: var(--f-xlg);
   }
 }
@@ -278,3 +278,24 @@ a {
   }
 }
 
+// Reading
+
+.easyread {
+  @extend .serif;
+  font-size: var(--f-semi);
+  @include query($bp-lrg){
+    font-size: var(--f-lrg);
+  }
+  p {
+    line-height: 1.7em;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+  }
+  li {
+    margin: 0.75em 0;
+  }
+  blockquote {
+    @extend .italic;
+    color: var(--grey2);
+  }
+}
