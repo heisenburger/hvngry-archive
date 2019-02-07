@@ -1,5 +1,8 @@
 <footer class="vp-4">
  {% include nav.html %}
+ {% if page.layout == "post" %}
+   {% include logo.html content="below" %}
+ {% endif %}
 </footer>
 
 {% include ga.html %}

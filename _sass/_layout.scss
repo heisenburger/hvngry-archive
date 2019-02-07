@@ -218,4 +218,18 @@
 .above {
   position: relative;
   top: -5em;
+  overflow: hidden;
+}
+
+.below {
+  position: relative;
+  top: 5em;
+  overflow: hidden;
+  max-height: var(--f-2xh);
+}
+
+hr {
+  border-style: solid;
+  border-color: var(--grey5);
+  margin: var(--u4) 0;
 }

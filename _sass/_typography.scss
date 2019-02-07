@@ -305,7 +305,7 @@ a {
     font-size: var(--f-2xl);
     color: var(--grey1);
   }
-  h2, h3, h4, h5, h6 {
+  h2, h3, h4, h5, h6, hr {
     @extend .measure;
     @extend .block-center;
   }
