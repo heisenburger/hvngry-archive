@@ -1,3 +1,5 @@
 # hvngry-archive
 
 A static version of [HVNGRY magazine](https://hvngrymag.com).
+
+Created as we are retiring WordPress.
