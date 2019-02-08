@@ -1,0 +1,17 @@
+<section class="block-center vp-8">
+  <h2 class="serif italic light f-2xl">Keep reading—</h2>
+  <div class="flex vp-4">
+    <section class="half">
+     {% assign post = site.posts | sample:1 %}
+      {% include post-link.html %}
+    </section>
+    <section class="half">
+      {% if page.previous %}
+        {% assign post = page.previous %}
+      {% else %}
+       {% assign post = site.posts | sample:1 %}
+      {% endif %}
+      {% include post-link.html %}
+    </section>
+  </div>
+</section>

@@ -55,19 +55,19 @@
   }
 }
 
-.post-item-flex {
-  flex-direction: row-reverse;
-  @include query-down($bp-lrg){
-    flex-direction: column-reverse;
-  }
-}
-
 .flex-grow {
   flex: 1 0 auto;
 }
 
 .flex-stay {
   flex: 0 1 auto;
+}
+
+.half {
+  width: 100%;
+  @include query($bp-med){
+    width: 50%;
+  }
 }
 
 
@@ -267,4 +267,18 @@ article {
     @extend .measure;
     @extend .block-center;
   }
+}
+
+.side_scroll {
+  width: 100%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.side_scroll-child {
+  display: inline-block;
+  white-space: normal;
+  vertical-align: top;
+  margin: 0 var(--u4);
 }

@@ -30,11 +30,11 @@
       </article>
 
       {% if page.comments[0] %}
-        <section class="block-center">
-          <h2 class="serif italic light f-2xl">People are saying...</h2>
-          <ul class="nls">
+        <section class="">
+          <h2 class="block-center serif italic light f-2xl">People are saying...</h2>
+          <ul class="nls side_scroll">
             {% for comment in page.comments %}
-              <li class="easyread measure vp-4">
+              <li class="easyread measure vp-4 side_scroll-child">
                 <p><span class="drop-cap">“</span>{{ comment.content }}</p>
                 <p class="text-right italic">—{{ comment.author }}, <br>{{ comment.date | date: "%A %B %-d %Y, %I:%M %p"}}</p>
               </li>
@@ -44,6 +44,8 @@
       {% endif %}
     
     </main>
+
+    {% include keep-reading.html %}
 
     <hr>
 
