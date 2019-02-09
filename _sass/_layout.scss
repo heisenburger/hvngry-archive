@@ -271,13 +271,9 @@
 .post-image {
   display: block;
   width: 100%;
-  max-width: 100vw;
   height: 60vh;
   @media (orientation: portrait) {
     height: 40vh;
-  }
-  @include query($bp-lrg){
-    max-width: 60vw;
   }
 }
 
