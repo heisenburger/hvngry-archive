@@ -34,7 +34,7 @@
 .flex {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  // align-items: center;
 
   p {
     margin-top: 0; // fix lack of margin-collapse with flex items
@@ -70,6 +70,53 @@
   }
 }
 
+// positioning
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.top {
+  top: 0;
+}
+
+.above {
+  position: relative;
+  top: 0;
+  overflow: hidden;
+  @include query($bp-lrg){
+    top: calc(-7 * var(--unit));
+  }
+}
+
+.below {
+  position: relative;
+  top: 0;
+  overflow: hidden;
+  @include query($bp-med){
+    top: calc(8 * var(--unit));
+    max-height: var(--f-2xl);
+  }
+}
+
+.scootch-right {
+  padding-left: 0;
+  @include query($bp-lrg){
+    padding-left: 16rem;
+  }
+}
+
+.scootch-up {
+  position: relative;
+  top: 0;
+  @include query($bp-lrg){
+    top: -24rem;
+  }
+}
 
 // Wrappers
 
@@ -208,31 +255,24 @@
   }
 }
 
-.featured-image {
+.post-list-image {
   display: block;
   width: 100%;
   max-width: 75rem;
   height: 20rem;
 }
 
-.above {
-  position: relative;
-  top: 0;
-  overflow: hidden;
+.post-image {
+  display: block;
+  width: 100%;
+  max-width: 100vw;
+  height: 60vh;
   @include query($bp-lrg){
-    top: calc(-7 * var(--unit));
+    max-width: 60vw;
   }
 }
 
-.below {
-  position: relative;
-  top: 0;
-  overflow: hidden;
-  @include query($bp-med){
-    top: calc(8 * var(--unit));
-    max-height: var(--f-2xl);
-  }
-}
+
 
 hr {
   border-style: solid;
@@ -271,7 +311,7 @@ article {
 
 .side_scroll {
   width: 100%;
-  overflow-x: scroll;
+  overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
 }
@@ -281,4 +321,17 @@ article {
   white-space: normal;
   vertical-align: top;
   margin: 0 var(--u4);
+}
+
+// Effects
+
+.blend {
+  mix-blend-mode: difference;
+}
+
+#post-logo {
+  color: var(--grey2);
+  &:hover {
+    color: var(--grey5);
+  }
 }

@@ -1,8 +1,10 @@
 <footer class="vp-4">
- {% include nav.html %}
- {% if page.layout != "landing" %}
-   {% include logo.html content="below" %}
- {% endif %}
+  {% include nav.html %}
+  {% if page.layout != "landing" %}
+    <div class="full {{ include.content }}">
+      <a href="/" id="post-logo" class="f-2xh caps spaced sans heavy sneakylink block text-center blend">Stay HVNGRY</a>
+    </div>
+  {% endif %}
 </footer>
 
 {% include ga.html %}

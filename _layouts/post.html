@@ -2,32 +2,36 @@
 <html lang="en">
   {% include head.html %}
 
-  <body class="enter-fade">
+  <body class="enter-fade relative">
 
-    {% include logo.html content="above" %}
+    {% include logo.html content="absolute top" %}
 
     <main>
-      <article class="black vp-8">
+      <article class="black">
 
-        <header class="constrain">
-          <h1 class="serif f-2xh thin tight">{{ page.title }}</h1>
-          <div class="vp-2">
-            <div class="caps sans text-right">{{ page.date | date: "%A %B %-d %Y"}}</div>
-            <div class="caps sans">by {{ page.author.display_name }}</div>
-          </div>
-          
-        </header>
+        <img src="{{ page.feature }}" class="cover post-image">
 
-        <section class="easyread vp-8">
-          {{ content }}
-        </section>
+        <div class="scootch-up scootch-right">
 
-        <section class="constrain">
-          <div class="vp-2">
-            <div class="caps sans text-center">by <a href="mailto:{{ page.author.email }}">{{ page.author.display_name }}</a></div>
-          </div>
-        </section>
+          <header class="constrain vp-8" style="background-color: white;">
+
+            <h1 class="serif f-2xh thin tight">{{ page.title }}</h1>
+            <div class="vp-2">
+              <div class="caps sans text-right">{{ page.date | date: "%A %B %-d %Y"}}</div>
+              <div class="caps sans">by {{ page.author.display_name }}</div>
+            </div>
+          </header>
+
+          <section class="easyread">
+            {{ content }}
+          </section>
+
+        </div>
+
       </article>
+
+      
+      
 
       {% if page.comments[0] %}
         <section class="">
