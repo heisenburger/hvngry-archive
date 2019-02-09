@@ -132,6 +132,12 @@
   }
 }
 
+.center-only {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .constrain {
   max-width: $content-width;
   @extend .block-center;
@@ -267,6 +273,9 @@
   width: 100%;
   max-width: 100vw;
   height: 60vh;
+  @media (orientation: portrait) {
+    height: 40vh;
+  }
   @include query($bp-lrg){
     max-width: 60vw;
   }
@@ -292,20 +301,20 @@ ul, ol {
 article {
   p {
     @extend .measure;
-    @extend .block-center;
+  }
+  p:first-child {
+    margin-top: 0;
+    padding-top: var(--u2);
   }
   ul, ol {
     @extend .measure;
-    @extend .block-center;
   }
   blockquote {
-    @extend .block-center;
     max-width: $content-width;
   }
   h2, h3, h4, h5, h6, hr {
     margin-top: 1.5em;
     @extend .measure;
-    @extend .block-center;
   }
 }
 
@@ -330,7 +339,10 @@ article {
 }
 
 #post-logo {
-  color: var(--grey2);
+  color: white;
+  @include query($bp-lrg){
+    color: var(--grey2);
+  }
   &:hover {
     color: var(--grey5);
   }

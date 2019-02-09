@@ -282,7 +282,10 @@ a {
 
 .easyread {
   @extend .serif;
-  font-size: var(--f-semi);
+  font-size: var(--f-med);
+  @include query($bp-sml){
+    font-size: var(--f-semi);
+  }
   @include query($bp-lrg){
     font-size: var(--f-lrg);
   }
