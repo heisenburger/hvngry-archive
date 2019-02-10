@@ -1,0 +1,1558 @@
+diff --git a/_posts/2014-01-24-conquering-firsts.html b/_posts/2014-01-24-conquering-firsts.html
+index 011cf0a..a3aea3b 100644
+--- a/_posts/2014-01-24-conquering-firsts.html
++++ b/_posts/2014-01-24-conquering-firsts.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Conquering Firsts
++feature: /uploads/2014/01/tumblr_mzai63kedv1t577bco1_1280.jpg
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-01-24-lady-of-science-ada-lovelace.html b/_posts/2014-01-24-lady-of-science-ada-lovelace.html
+index 336c245..a27b1bc 100644
+--- a/_posts/2014-01-24-lady-of-science-ada-lovelace.html
++++ b/_posts/2014-01-24-lady-of-science-ada-lovelace.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Lady of Science: Ada Lovelace'
++feature: /uploads/2014/01/ada_lovelace_portrait.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-01-24-on-wearing-togs.html b/_posts/2014-01-24-on-wearing-togs.html
+index fbc5834..c949de6 100644
+--- a/_posts/2014-01-24-on-wearing-togs.html
++++ b/_posts/2014-01-24-on-wearing-togs.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: On Wearing Togs
++feature: /uploads/2014/01/bikinibody.jpg
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-01-24-queerchat.html b/_posts/2014-01-24-queerchat.html
+index 45b7d04..624bfa4 100644
+--- a/_posts/2014-01-24-queerchat.html
++++ b/_posts/2014-01-24-queerchat.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Queerchat
++feature: /uploads/2014/01/queer-talk1.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-01-24-review-how-to-be-a-woman.html b/_posts/2014-01-24-review-how-to-be-a-woman.html
+index 354605a..3277af2 100644
+--- a/_posts/2014-01-24-review-how-to-be-a-woman.html
++++ b/_posts/2014-01-24-review-how-to-be-a-woman.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Review: How to Be a Woman'
++feature: /uploads/2014/01/caitlinmoran.jpg
+ author:
+   display_name: Alison
+   login: alison.b
+diff --git a/_posts/2014-01-25-mermaid-pixie.html b/_posts/2014-01-25-mermaid-pixie.html
+index 9893b38..a683484 100644
+--- a/_posts/2014-01-25-mermaid-pixie.html
++++ b/_posts/2014-01-25-mermaid-pixie.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: From Mermaid to Pixie
++feature: /uploads/2014/01/audreypixie.jpg
+ author:
+   display_name: Kathy
+   login: kathy.h
+diff --git a/_posts/2014-01-25-phobia-busting.html b/_posts/2014-01-25-phobia-busting.html
+index 7ed2002..c512c7c 100644
+--- a/_posts/2014-01-25-phobia-busting.html
++++ b/_posts/2014-01-25-phobia-busting.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Phobia Busting
++feature: /uploads/2014/01/IMG_0517.jpg
+ author:
+   display_name: Lucie
+   login: lucie.iw
+diff --git a/_posts/2014-01-25-you-hit-like-a-girl.html b/_posts/2014-01-25-you-hit-like-a-girl.html
+index c0689ca..5db879c 100644
+--- a/_posts/2014-01-25-you-hit-like-a-girl.html
++++ b/_posts/2014-01-25-you-hit-like-a-girl.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: "&ldquo;You Hit Like a Girl&rdquo;"
++feature: /uploads/2014/01/lucyliubox.jpg
+ author:
+   display_name: Marijn
+   login: marijn.k
+diff --git a/_posts/2014-01-26-f-word.html b/_posts/2014-01-26-f-word.html
+index f120931..f8f131e 100644
+--- a/_posts/2014-01-26-f-word.html
++++ b/_posts/2014-01-26-f-word.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: The F Word
++feature: /uploads/2014/01/sibide.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-01-27-underage-and-reckless.html b/_posts/2014-01-27-underage-and-reckless.html
+index 712d81b..8ef9869 100644
+--- a/_posts/2014-01-27-underage-and-reckless.html
++++ b/_posts/2014-01-27-underage-and-reckless.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Underage and Reckless
++feature: /uploads/2014/01/dranks.jpg
+ author:
+   display_name: Anonymouse
+   login: anon
+diff --git a/_posts/2014-01-28-jen-muir.html b/_posts/2014-01-28-jen-muir.html
+index a3449c1..48ae0d1 100644
+--- a/_posts/2014-01-28-jen-muir.html
++++ b/_posts/2014-01-28-jen-muir.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Featured Artist: Jen Muir'
++feature: /uploads/2014/01/hidden.jpg
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-01-28-my-first-day-of-high-school.html b/_posts/2014-01-28-my-first-day-of-high-school.html
+index bebf0da..a104699 100644
+--- a/_posts/2014-01-28-my-first-day-of-high-school.html
++++ b/_posts/2014-01-28-my-first-day-of-high-school.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: My First Day of High School
++feature: /uploads/2014/01/GG311.jpg
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-01-29-girl-asks-actual-climate-expert-happen.html b/_posts/2014-01-29-girl-asks-actual-climate-expert-happen.html
+index fa9a3db..222908e 100644
+--- a/_posts/2014-01-29-girl-asks-actual-climate-expert-happen.html
++++ b/_posts/2014-01-29-girl-asks-actual-climate-expert-happen.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Girl Asks Actual Climate Expert: What Could Happen? '
++feature: /uploads/2014/01/climate.jpg
+ author:
+   display_name: HVNGRY
+   login: HVNGRY
+diff --git a/_posts/2014-01-29-tips-first-oe.html b/_posts/2014-01-29-tips-first-oe.html
+index 1dce6a5..6977f03 100644
+--- a/_posts/2014-01-29-tips-first-oe.html
++++ b/_posts/2014-01-29-tips-first-oe.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Tips For Your First OE
++feature: /uploads/2014/01/travel1.jpg
+ author:
+   display_name: Marijn
+   login: marijn.k
+diff --git a/_posts/2014-01-30-first-time.html b/_posts/2014-01-30-first-time.html
+index fc268f0..555cc3d 100644
+--- a/_posts/2014-01-30-first-time.html
++++ b/_posts/2014-01-30-first-time.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: The First Time
++feature: /uploads/2014/01/firsttime.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-01-30-playlist-first-days-school-pt.html b/_posts/2014-01-30-playlist-first-days-school-pt.html
+index 3668621..477b726 100644
+--- a/_posts/2014-01-30-playlist-first-days-school-pt.html
++++ b/_posts/2014-01-30-playlist-first-days-school-pt.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Playlist: First Days of School, Pt I'
++feature: /uploads/2014/01/8tracks_firstdayofschool11.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-01-30-review-almighty-johnsons.html b/_posts/2014-01-30-review-almighty-johnsons.html
+index f90bce6..6da06bb 100644
+--- a/_posts/2014-01-30-review-almighty-johnsons.html
++++ b/_posts/2014-01-30-review-almighty-johnsons.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Review: The Almighty Johnsons'
++feature: /uploads/2014/01/taj1.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-01-31-first-time-uni.html b/_posts/2014-01-31-first-time-uni.html
+index 1948396..d7c1a88 100644
+--- a/_posts/2014-01-31-first-time-uni.html
++++ b/_posts/2014-01-31-first-time-uni.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: First Time at Uni
++feature: /uploads/2014/01/monstersuni1.jpg
+ author:
+   display_name: Courtney
+   login: courtney.c
+diff --git a/_posts/2014-01-31-recipe-shrewsberry-bickies.html b/_posts/2014-01-31-recipe-shrewsberry-bickies.html
+index 3a7b256..bbe1039 100644
+--- a/_posts/2014-01-31-recipe-shrewsberry-bickies.html
++++ b/_posts/2014-01-31-recipe-shrewsberry-bickies.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Recipe: Shrewsberry Bickies'
++feature: /uploads/2014/01/IMG_00601.jpg
+ author:
+   display_name: Sophie E
+   login: Sophielikescake
+diff --git a/_posts/2014-02-01-fake-geek-girls.html b/_posts/2014-02-01-fake-geek-girls.html
+index 53e275c..8743a91 100644
+--- a/_posts/2014-02-01-fake-geek-girls.html
++++ b/_posts/2014-02-01-fake-geek-girls.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Fake Geek Girls
++feature: /uploads/2014/02/fakegeekgirl1.jpg
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-02-02-women-politics.html b/_posts/2014-02-02-women-politics.html
+index cba2466..59667a4 100644
+--- a/_posts/2014-02-02-women-politics.html
++++ b/_posts/2014-02-02-women-politics.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Women in Politics
++feature: /uploads/2014/02/lizwarren.jpg
+ author:
+   display_name: Bridget
+   login: bridget.m
+diff --git a/_posts/2014-02-04-playlist-first-days-school-pt-ii.html b/_posts/2014-02-04-playlist-first-days-school-pt-ii.html
+index 75349d6..714b8c1 100644
+--- a/_posts/2014-02-04-playlist-first-days-school-pt-ii.html
++++ b/_posts/2014-02-04-playlist-first-days-school-pt-ii.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Playlist: First Days of School, Pt II'
++feature: /uploads/2014/02/8tracks_firstdayofschool_2.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-02-04-review-abundance-katherines.html b/_posts/2014-02-04-review-abundance-katherines.html
+index a8685d6..6c58aa7 100644
+--- a/_posts/2014-02-04-review-abundance-katherines.html
++++ b/_posts/2014-02-04-review-abundance-katherines.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Review: An Abundance of Katherines'
++feature: /uploads/2014/01/katherines.png
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-02-05-roundtable-selfie-culture.html b/_posts/2014-02-05-roundtable-selfie-culture.html
+index c287761..b2e0e28 100644
+--- a/_posts/2014-02-05-roundtable-selfie-culture.html
++++ b/_posts/2014-02-05-roundtable-selfie-culture.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Roundtable: On Selfie Culture'
++feature: /uploads/2014/02/selfies.jpg
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-02-06-firsts-dont.html b/_posts/2014-02-06-firsts-dont.html
+index 7ad2c85..6658544 100644
+--- a/_posts/2014-02-06-firsts-dont.html
++++ b/_posts/2014-02-06-firsts-dont.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Firsts: I Don&#8217;t Have Them'
++feature: /uploads/2014/02/nofirsts.jpg
+ author:
+   display_name: Gisela G.
+   login: giselabishop
+diff --git a/_posts/2014-02-07-2013-takeaways.html b/_posts/2014-02-07-2013-takeaways.html
+index a7e3892..25b3a2b 100644
+--- a/_posts/2014-02-07-2013-takeaways.html
++++ b/_posts/2014-02-07-2013-takeaways.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: takeaways (2013)
++feature: /uploads/2014/02/amour.jpg
+ author:
+   display_name: Alex K.
+   login: alexk
+diff --git a/_posts/2014-02-08-fash101.html b/_posts/2014-02-08-fash101.html
+index 5c38982..ebe84fb 100644
+--- a/_posts/2014-02-08-fash101.html
++++ b/_posts/2014-02-08-fash101.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: FASH101
++feature: /uploads/2014/02/fash1011.jpg
+ author:
+   display_name: Liz
+   login: LizOdey
+diff --git a/_posts/2014-02-09-first-aid.html b/_posts/2014-02-09-first-aid.html
+index 777ddfe..0ccc3cb 100644
+--- a/_posts/2014-02-09-first-aid.html
++++ b/_posts/2014-02-09-first-aid.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: First Aid
++feature: /uploads/2014/02/firstaid.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-02-11-shopping-bras-guide.html b/_posts/2014-02-11-shopping-bras-guide.html
+index 1f819dc..7107d7c 100644
+--- a/_posts/2014-02-11-shopping-bras-guide.html
++++ b/_posts/2014-02-11-shopping-bras-guide.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Shopping for Bras: A Guide'
++feature: /uploads/2014/01/pinup-bra.png
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-02-12-investigating-bra-statistic.html b/_posts/2014-02-12-investigating-bra-statistic.html
+index f2a58af..25815d1 100644
+--- a/_posts/2014-02-12-investigating-bra-statistic.html
++++ b/_posts/2014-02-12-investigating-bra-statistic.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Investigating the Bra Statistic
++feature: /uploads/2014/02/vintagebra.jpg
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-02-13-life-choices.html b/_posts/2014-02-13-life-choices.html
+index 475ab9b..6c35807 100644
+--- a/_posts/2014-02-13-life-choices.html
++++ b/_posts/2014-02-13-life-choices.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Life Choices
++feature: /uploads/2014/02/difficult-life-choices.gif
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-02-14-sad-story-unemployment.html b/_posts/2014-02-14-sad-story-unemployment.html
+index 12af713..dbc89a4 100644
+--- a/_posts/2014-02-14-sad-story-unemployment.html
++++ b/_posts/2014-02-14-sad-story-unemployment.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: A Sad Story of Unemployment
++feature: /uploads/2014/02/officedwight.jpg
+ author:
+   display_name: Meaghan
+   login: meaghan.k
+diff --git a/_posts/2014-02-15-review-little-mix-salute.html b/_posts/2014-02-15-review-little-mix-salute.html
+index d2f979c..5c6c6e0 100644
+--- a/_posts/2014-02-15-review-little-mix-salute.html
++++ b/_posts/2014-02-15-review-little-mix-salute.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Review: Little Mix - Salute'
++feature: /uploads/2014/02/littlemixsalu.jpg
+ author:
+   display_name: Bridie
+   login: bjune
+diff --git a/_posts/2014-02-17-getting-swimming.html b/_posts/2014-02-17-getting-swimming.html
+index c6e914f..349154b 100644
+--- a/_posts/2014-02-17-getting-swimming.html
++++ b/_posts/2014-02-17-getting-swimming.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Swimming (or not) on your Period
++feature: /uploads/2014/02/swim.jpg
+ author:
+   display_name: Kelsey
+   login: kelsey.m
+diff --git a/_posts/2014-02-19-secret-beauty-tip.html b/_posts/2014-02-19-secret-beauty-tip.html
+index 791e964..367de0e 100644
+--- a/_posts/2014-02-19-secret-beauty-tip.html
++++ b/_posts/2014-02-19-secret-beauty-tip.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Secret Beauty Tip
++feature: /uploads/2014/02/shh.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-02-20-manic-pixie-dream-girl.html b/_posts/2014-02-20-manic-pixie-dream-girl.html
+index db9388a..28b560e 100644
+--- a/_posts/2014-02-20-manic-pixie-dream-girl.html
++++ b/_posts/2014-02-20-manic-pixie-dream-girl.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: I Was A Manic Pixie Dream Girl
++feature: /uploads/2014/02/manicwinslet.jpg
+ author:
+   display_name: Natasha
+   login: NatashaH
+diff --git a/_posts/2014-02-21-geek-girl-survival-guide-2.html b/_posts/2014-02-21-geek-girl-survival-guide-2.html
+index 38d4bae..b023449 100644
+--- a/_posts/2014-02-21-geek-girl-survival-guide-2.html
++++ b/_posts/2014-02-21-geek-girl-survival-guide-2.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: The Geek Girl Survival Guide
++feature: /uploads/2014/02/tumblr_mdskmjnpiO1rn6ts4o1_1280.jpg
+ author:
+   display_name: Merrin M
+   login: merrin.m
+diff --git a/_posts/2014-02-23-playlist-first-days-school-pt-iii.html b/_posts/2014-02-23-playlist-first-days-school-pt-iii.html
+index bf8c441..9b4a9cd 100644
+--- a/_posts/2014-02-23-playlist-first-days-school-pt-iii.html
++++ b/_posts/2014-02-23-playlist-first-days-school-pt-iii.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Playlist: First Days of School, Pt III'
++feature: /uploads/2014/02/firstdaysofschool3.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-02-25-essay-writing.html b/_posts/2014-02-25-essay-writing.html
+index c6f5ee3..1709395 100644
+--- a/_posts/2014-02-25-essay-writing.html
++++ b/_posts/2014-02-25-essay-writing.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'How to: Write Essays, Kick Ass'
++feature: /uploads/2014/01/essay.jpg
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-02-26-clothes-swaps.html b/_posts/2014-02-26-clothes-swaps.html
+index 4e28c9e..d0b8e03 100644
+--- a/_posts/2014-02-26-clothes-swaps.html
++++ b/_posts/2014-02-26-clothes-swaps.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Clothes Swaps
++feature: /uploads/2014/02/Hope_Gangloff_Clothes_Swap__Brooklyn_2008_1271_97.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-02-27-youre-happy-know-clap-hands.html b/_posts/2014-02-27-youre-happy-know-clap-hands.html
+index 398f6a5..2777fc7 100644
+--- a/_posts/2014-02-27-youre-happy-know-clap-hands.html
++++ b/_posts/2014-02-27-youre-happy-know-clap-hands.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Are You Happy?
++feature: /uploads/2014/02/epiphany.jpg
+ author:
+   display_name: Erica
+   login: EricaSowry
+diff --git a/_posts/2014-02-28-girls-radio.html b/_posts/2014-02-28-girls-radio.html
+index 3e6fd82..5bb65b8 100644
+--- a/_posts/2014-02-28-girls-radio.html
++++ b/_posts/2014-02-28-girls-radio.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Girls on the Radio
++feature: /uploads/2014/02/vinylgirl.jpg
+ author:
+   display_name: Johanna
+   login: Johanna
+diff --git a/_posts/2014-03-01-be-own-heroine.html b/_posts/2014-03-01-be-own-heroine.html
+index add3d64..dcc0d49 100644
+--- a/_posts/2014-03-01-be-own-heroine.html
++++ b/_posts/2014-03-01-be-own-heroine.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: How To Be Your Own Heroine
++feature: /uploads/2014/03/aviator.jpg
+ author:
+   display_name: Pepper
+   login: sempercapsicum
+diff --git a/_posts/2014-03-02-music-memories.html b/_posts/2014-03-02-music-memories.html
+index a79f2ca..1b25d2d 100644
+--- a/_posts/2014-03-02-music-memories.html
++++ b/_posts/2014-03-02-music-memories.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Music and Memories '
++feature: /uploads/2014/03/sarah.jpg
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-03-04-seeing-television.html b/_posts/2014-03-04-seeing-television.html
+index 45c577a..e17e724 100644
+--- a/_posts/2014-03-04-seeing-television.html
++++ b/_posts/2014-03-04-seeing-television.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Seeing Yourself on Television
++feature: /uploads/2014/02/tvselection2.jpg
+ author:
+   display_name: Johanna
+   login: Johanna
+diff --git a/_posts/2014-03-05-ladyfriendships.html b/_posts/2014-03-05-ladyfriendships.html
+index fb115db..79c4973 100644
+--- a/_posts/2014-03-05-ladyfriendships.html
++++ b/_posts/2014-03-05-ladyfriendships.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Ladyfriendships
++feature: /uploads/2014/02/tumblr_my2387GD1e1t7z5mbo1_1280.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-03-07-lunchtime-roundtable-drugs.html b/_posts/2014-03-07-lunchtime-roundtable-drugs.html
+index dbc1f4c..a4c7774 100644
+--- a/_posts/2014-03-07-lunchtime-roundtable-drugs.html
++++ b/_posts/2014-03-07-lunchtime-roundtable-drugs.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Lunchtime Roundtable: Drug Education'
++feature: /uploads/2014/03/drugs.jpg
+ author:
+   display_name: Pepper
+   login: sempercapsicum
+diff --git a/_posts/2014-03-11-feel-powerful.html b/_posts/2014-03-11-feel-powerful.html
+index f48d88b..502060c 100644
+--- a/_posts/2014-03-11-feel-powerful.html
++++ b/_posts/2014-03-11-feel-powerful.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: How to feel powerful
++feature: /uploads/2014/02/1970s-Lynda-Carter.jpg
+ author:
+   display_name: Marijn
+   login: marijn.k
+diff --git a/_posts/2014-03-12-buffy-the-vampire-slayer-and-mental-illness.html b/_posts/2014-03-12-buffy-the-vampire-slayer-and-mental-illness.html
+index a34ceac..043aea4 100644
+--- a/_posts/2014-03-12-buffy-the-vampire-slayer-and-mental-illness.html
++++ b/_posts/2014-03-12-buffy-the-vampire-slayer-and-mental-illness.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Buffy the Vampire Slayer and Mental Illness
++feature: /uploads/2014/02/buffy.jpg
+ author:
+   display_name: Natasha
+   login: NatashaH
+diff --git a/_posts/2014-03-17-chilli-chocolate-custard-doughnuts.html b/_posts/2014-03-17-chilli-chocolate-custard-doughnuts.html
+index 61ec0b3..a6d9fc5 100644
+--- a/_posts/2014-03-17-chilli-chocolate-custard-doughnuts.html
++++ b/_posts/2014-03-17-chilli-chocolate-custard-doughnuts.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Chilli Chocolate Custard Doughnuts
++feature: /uploads/2014/03/IMG_0361.jpg
+ author:
+   display_name: Sophie E
+   login: Sophielikescake
+diff --git a/_posts/2014-03-18-girl-gang-apocalypse.html b/_posts/2014-03-18-girl-gang-apocalypse.html
+index ecf45eb..79229c3 100644
+--- a/_posts/2014-03-18-girl-gang-apocalypse.html
++++ b/_posts/2014-03-18-girl-gang-apocalypse.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Girl Gang Apocalypse
++feature: /uploads/2014/03/DSC_0279.jpg
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-03-19-open-letter-kathleen-hanna-miley-cyrus.html b/_posts/2014-03-19-open-letter-kathleen-hanna-miley-cyrus.html
+index ebc4896..6973785 100644
+--- a/_posts/2014-03-19-open-letter-kathleen-hanna-miley-cyrus.html
++++ b/_posts/2014-03-19-open-letter-kathleen-hanna-miley-cyrus.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: An Open Letter to Kathleen Hanna about Miley Cyrus
++feature: /uploads/2014/03/Miley-Cyrus-Is-Singing-to-Who1.jpeg
+ author:
+   display_name: Cara
+   login: cara.c
+diff --git a/_posts/2014-03-20-like.html b/_posts/2014-03-20-like.html
+index 5ed53b2..1072ac8 100644
+--- a/_posts/2014-03-20-like.html
++++ b/_posts/2014-03-20-like.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Like, what?
++feature: /uploads/2014/03/likewhat.jpg
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-03-24-feminism-basically-ocean-part-whats-waves.html b/_posts/2014-03-24-feminism-basically-ocean-part-whats-waves.html
+index 534ac36..49589f6 100644
+--- a/_posts/2014-03-24-feminism-basically-ocean-part-whats-waves.html
++++ b/_posts/2014-03-24-feminism-basically-ocean-part-whats-waves.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Feminism is Basically An Ocean, Part I
++feature: /uploads/2014/03/thecure.jpg
+ author:
+   display_name: Guest Author
+   login: TonySoprano
+diff --git a/_posts/2014-03-25-feminism-basically-ocean-part-ii.html b/_posts/2014-03-25-feminism-basically-ocean-part-ii.html
+index 61f503a..f501ff7 100644
+--- a/_posts/2014-03-25-feminism-basically-ocean-part-ii.html
++++ b/_posts/2014-03-25-feminism-basically-ocean-part-ii.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Feminism is Basically An Ocean, Part II
++feature: /uploads/2014/03/thecure2.jpg
+ author:
+   display_name: Guest Author
+   login: TonySoprano
+diff --git a/_posts/2014-03-26-usual-post.html b/_posts/2014-03-26-usual-post.html
+index 95615c1..35d1b8e 100644
+--- a/_posts/2014-03-26-usual-post.html
++++ b/_posts/2014-03-26-usual-post.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Not Your Usual Post
++feature: /uploads/2014/02/nono.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-03-27-ladies-game-thrones.html b/_posts/2014-03-27-ladies-game-thrones.html
+index 091c240..ebabe5c 100644
+--- a/_posts/2014-03-27-ladies-game-thrones.html
++++ b/_posts/2014-03-27-ladies-game-thrones.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: The Ladies of Game of Thrones
++feature: /uploads/2014/03/output_VpTpWy.gif
+ author:
+   display_name: Erica
+   login: EricaSowry
+diff --git a/_posts/2014-04-02-ch-ch-ch-ch-changes.html b/_posts/2014-04-02-ch-ch-ch-ch-changes.html
+index 4de5dff..a62d50e 100644
+--- a/_posts/2014-04-02-ch-ch-ch-ch-changes.html
++++ b/_posts/2014-04-02-ch-ch-ch-ch-changes.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Ch-ch-ch-ch-changes
++feature: /uploads/2014/04/5nApW.jpg.gif
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-04-03-introducing-mo.html b/_posts/2014-04-03-introducing-mo.html
+index c212767..f8a0bef 100644
+--- a/_posts/2014-04-03-introducing-mo.html
++++ b/_posts/2014-04-03-introducing-mo.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Introducing: M&Oslash; '
++feature: /uploads/2014/03/MO_Press-Image-2_Thomas-Skou.jpg
+ author:
+   display_name: Bridie
+   login: bjune
+diff --git a/_posts/2014-04-04-inspiration-queen-rania.html b/_posts/2014-04-04-inspiration-queen-rania.html
+index 77ce4d9..fbaeb98 100644
+--- a/_posts/2014-04-04-inspiration-queen-rania.html
++++ b/_posts/2014-04-04-inspiration-queen-rania.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Inspiration: Queen Rania'
++feature: /uploads/2014/02/Queen_Rania_-_World_Economic_Forum_Annual_Meeting_Davos_2003-e1362278154973-940x400.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-04-09-anne-helen-petersen-celebrities-academia-trash.html b/_posts/2014-04-09-anne-helen-petersen-celebrities-academia-trash.html
+index efd8238..3c15b5a 100644
+--- a/_posts/2014-04-09-anne-helen-petersen-celebrities-academia-trash.html
++++ b/_posts/2014-04-09-anne-helen-petersen-celebrities-academia-trash.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Anne Helen Petersen on Celebrities, Pop Culture, and "Trash"
++feature: /uploads/2014/04/barbara-1024x816.jpg
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-04-10-favourites.html b/_posts/2014-04-10-favourites.html
+index 7d8e774..eca8669 100644
+--- a/_posts/2014-04-10-favourites.html
++++ b/_posts/2014-04-10-favourites.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Favourites
++feature: /uploads/2014/03/no.jpg
+ author:
+   display_name: Feby
+   login: Feby
+diff --git a/_posts/2014-04-14-album-review-mo-mythologies-follow.html b/_posts/2014-04-14-album-review-mo-mythologies-follow.html
+index b149c9c..e57331f 100644
+--- a/_posts/2014-04-14-album-review-mo-mythologies-follow.html
++++ b/_posts/2014-04-14-album-review-mo-mythologies-follow.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Album Review: M&Oslash; - No Mythologies To Follow '
++feature: /uploads/2014/03/10011423_10200850013372684_1245554625_n.jpg
+ author:
+   display_name: Bridie
+   login: bjune
+diff --git a/_posts/2014-04-17-smore-cupcakes.html b/_posts/2014-04-17-smore-cupcakes.html
+index 62dc0bf..791b2f1 100644
+--- a/_posts/2014-04-17-smore-cupcakes.html
++++ b/_posts/2014-04-17-smore-cupcakes.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: S&rsquo;more Cupcakes
++feature: /uploads/2014/04/IMG_1345.jpg
+ author:
+   display_name: Sophie E
+   login: Sophielikescake
+diff --git a/_posts/2014-05-07-loving-brooklyn-nine-nine.html b/_posts/2014-05-07-loving-brooklyn-nine-nine.html
+index 28ee2b6..b49d6f8 100644
+--- a/_posts/2014-05-07-loving-brooklyn-nine-nine.html
++++ b/_posts/2014-05-07-loving-brooklyn-nine-nine.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Why We're Loving Brooklyn Nine-Nine
++feature: /uploads/2014/05/brooklynnine.jpg
+ author:
+   display_name: Julia W.
+   login: Julia W.
+diff --git a/_posts/2014-05-08-folk-music-rainymood-match-made-heaven.html b/_posts/2014-05-08-folk-music-rainymood-match-made-heaven.html
+index 8454671..7ba359c 100644
+--- a/_posts/2014-05-08-folk-music-rainymood-match-made-heaven.html
++++ b/_posts/2014-05-08-folk-music-rainymood-match-made-heaven.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Folk Music & Rainymood
++feature: /uploads/2014/04/rain-249872.jpg
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2014-05-09-sally-ann-moffat-talks-fashion-happiness-love.html b/_posts/2014-05-09-sally-ann-moffat-talks-fashion-happiness-love.html
+index baae9de..317b856 100644
+--- a/_posts/2014-05-09-sally-ann-moffat-talks-fashion-happiness-love.html
++++ b/_posts/2014-05-09-sally-ann-moffat-talks-fashion-happiness-love.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Sally-Ann Moffat Talks Fashion, Happiness, and Doing What You Love
++feature: /uploads/2014/05/vintage-clothes-rail.jpg
+ author:
+   display_name: Liz
+   login: LizOdey
+diff --git a/_posts/2014-05-15-change-tunes.html b/_posts/2014-05-15-change-tunes.html
+index 6dac2eb..ec7f54e 100644
+--- a/_posts/2014-05-15-change-tunes.html
++++ b/_posts/2014-05-15-change-tunes.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: The Change in Tunes
++feature: /uploads/2014/05/sia.jpg
+ author:
+   display_name: Bridie
+   login: bjune
+diff --git a/_posts/2014-05-16-coming.html b/_posts/2014-05-16-coming.html
+index 77c3a19..c9951f1 100644
+--- a/_posts/2014-05-16-coming.html
++++ b/_posts/2014-05-16-coming.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Coming Out
++feature: /uploads/2014/05/flowergirl.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-05-22-fucked.html b/_posts/2014-05-22-fucked.html
+index 1c29b36..95d83e8 100644
+--- a/_posts/2014-05-22-fucked.html
++++ b/_posts/2014-05-22-fucked.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Are We Fucked?
++feature: /uploads/2014/05/whybother.jpg
+ author:
+   display_name: Gabriella
+   login: gabriella.m
+diff --git a/_posts/2014-06-11-hunger-games-social-change.html b/_posts/2014-06-11-hunger-games-social-change.html
+index ea41f2b..de8b007 100644
+--- a/_posts/2014-06-11-hunger-games-social-change.html
++++ b/_posts/2014-06-11-hunger-games-social-change.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: The Hunger Games and Social Change
++feature: /uploads/2014/04/Screen-Shot-2013-10-14-at-9.13.13-PM.png
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-07-18-runaways.html b/_posts/2014-07-18-runaways.html
+index 5a6b37b..a62e152 100644
+--- a/_posts/2014-07-18-runaways.html
++++ b/_posts/2014-07-18-runaways.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Runaways
++feature: /uploads/2014/07/DSC0620.jpg
+ author:
+   display_name: Liz
+   login: LizOdey
+diff --git a/_posts/2014-08-06-savvy-girls-guide-online-self-defence.html b/_posts/2014-08-06-savvy-girls-guide-online-self-defence.html
+index 4998acf..3067a45 100644
+--- a/_posts/2014-08-06-savvy-girls-guide-online-self-defence.html
++++ b/_posts/2014-08-06-savvy-girls-guide-online-self-defence.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: A Savvy Girl's Guide to Online Self-Defence
++feature: /uploads/2014/07/infosec.jpg
+ author:
+   display_name: Laura
+   login: ladynerd
+diff --git a/_posts/2014-08-08-lovely-lamingtons.html b/_posts/2014-08-08-lovely-lamingtons.html
+index 7673004..6a3278a 100644
+--- a/_posts/2014-08-08-lovely-lamingtons.html
++++ b/_posts/2014-08-08-lovely-lamingtons.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Lovely Lamingtons
++feature: /uploads/2014/08/lamgintonsss.jpg
+ author:
+   display_name: Julia W.
+   login: Julia W.
+diff --git a/_posts/2014-08-12-period-tales.html b/_posts/2014-08-12-period-tales.html
+index fe7dbca..8bd61fa 100644
+--- a/_posts/2014-08-12-period-tales.html
++++ b/_posts/2014-08-12-period-tales.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Period Tales
++feature: /uploads/2014/08/tales2.jpg
+ author:
+   display_name: HVNGRY
+   login: HVNGRY
+diff --git a/_posts/2014-08-14-playlist-heroine-chic.html b/_posts/2014-08-14-playlist-heroine-chic.html
+index c072db4..cfc69c4 100644
+--- a/_posts/2014-08-14-playlist-heroine-chic.html
++++ b/_posts/2014-08-14-playlist-heroine-chic.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Playlist: Heroine Chic'
++feature: /uploads/2014/08/playlist-heroine-chic.png
+ author:
+   display_name: Cara
+   login: cara.c
+diff --git a/_posts/2014-08-15-paper-caprices.html b/_posts/2014-08-15-paper-caprices.html
+index 508f4dd..5ad44e3 100644
+--- a/_posts/2014-08-15-paper-caprices.html
++++ b/_posts/2014-08-15-paper-caprices.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Paper Caprices
++feature: /uploads/2014/04/Chloe-Collage-5.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-08-19-humans-speak-language-affect.html b/_posts/2014-08-19-humans-speak-language-affect.html
+index 7472ac1..2df6f94 100644
+--- a/_posts/2014-08-19-humans-speak-language-affect.html
++++ b/_posts/2014-08-19-humans-speak-language-affect.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: All Humans Speak, but How Does Language Affect Who We Are?
++feature: /uploads/2014/08/linguisticpower.jpg
+ author:
+   display_name: Agustina
+   login: amarianacci
+diff --git a/_posts/2014-08-21-post-breakup-evolution.html b/_posts/2014-08-21-post-breakup-evolution.html
+index 99dbf60..f915a25 100644
+--- a/_posts/2014-08-21-post-breakup-evolution.html
++++ b/_posts/2014-08-21-post-breakup-evolution.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Post Breakup Evolution
++feature: /uploads/2014/08/heart-candy.jpg
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2014-08-22-evolution-hummus.html b/_posts/2014-08-22-evolution-hummus.html
+index 2a24990..db4b4cc 100644
+--- a/_posts/2014-08-22-evolution-hummus.html
++++ b/_posts/2014-08-22-evolution-hummus.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Evolution: Hummus'
++feature: /uploads/2014/08/tomato-10.jpg
+ author:
+   display_name: Becky
+   login: becky.y
+diff --git a/_posts/2014-08-26-bass.html b/_posts/2014-08-26-bass.html
+index bb64a60..e5757dd 100644
+--- a/_posts/2014-08-26-bass.html
++++ b/_posts/2014-08-26-bass.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Should we be all about that bass?
++feature: /uploads/2014/08/butts.jpg
+ author:
+   display_name: Bridie
+   login: bjune
+diff --git a/_posts/2014-08-28-inspiration-jane-goodall.html b/_posts/2014-08-28-inspiration-jane-goodall.html
+index 843b4b6..2b0cb9a 100644
+--- a/_posts/2014-08-28-inspiration-jane-goodall.html
++++ b/_posts/2014-08-28-inspiration-jane-goodall.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Inspiration: Jane Goodall'
++feature: /uploads/2014/07/JaneGoodall.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2014-08-29-soft-masc-and-hard-femme.html b/_posts/2014-08-29-soft-masc-and-hard-femme.html
+index d86dea8..e0e33c6 100644
+--- a/_posts/2014-08-29-soft-masc-and-hard-femme.html
++++ b/_posts/2014-08-29-soft-masc-and-hard-femme.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Soft Masc and Hard Femme
++feature: /uploads/2014/07/hardfem.png
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-09-12-guacamole.html b/_posts/2014-09-12-guacamole.html
+index 74a6e60..eba2a3c 100644
+--- a/_posts/2014-09-12-guacamole.html
++++ b/_posts/2014-09-12-guacamole.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Guacamole!
++feature: /uploads/2014/09/DSCF2157.jpg
+ author:
+   display_name: Guest Author
+   login: TonySoprano
+diff --git a/_posts/2014-11-03-being-trans-and-prideful.html b/_posts/2014-11-03-being-trans-and-prideful.html
+index 5acc622..7effb42 100644
+--- a/_posts/2014-11-03-being-trans-and-prideful.html
++++ b/_posts/2014-11-03-being-trans-and-prideful.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Being Trans and Prideful
++feature: /uploads/2014/11/irefuse.jpg
+ author:
+   display_name: Guest Author
+   login: TonySoprano
+diff --git a/_posts/2014-11-04-crown.html b/_posts/2014-11-04-crown.html
+index 97ebfcf..29fde9a 100644
+--- a/_posts/2014-11-04-crown.html
++++ b/_posts/2014-11-04-crown.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Crown Yourself
++feature: /uploads/2014/11/Screen-Shot-2014-11-04-at-9.53.38-am.png
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-11-06-body-hair.html b/_posts/2014-11-06-body-hair.html
+index dbe2a14..4208ac9 100644
+--- a/_posts/2014-11-06-body-hair.html
++++ b/_posts/2014-11-06-body-hair.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Body Hair
++feature: /uploads/2014/11/grimes.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-11-07-together-forever-thats-fine.html b/_posts/2014-11-07-together-forever-thats-fine.html
+index 41e2999..0e2e7a6 100644
+--- a/_posts/2014-11-07-together-forever-thats-fine.html
++++ b/_posts/2014-11-07-together-forever-thats-fine.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Together Forever (or not, but that&rsquo;s fine)
++feature: /uploads/2014/08/maxresdefault.jpg
+ author:
+   display_name: Indigo
+   login: Indigo.TH
+diff --git a/_posts/2014-11-10-playlist-pride.html b/_posts/2014-11-10-playlist-pride.html
+index c58c564..97281ca 100644
+--- a/_posts/2014-11-10-playlist-pride.html
++++ b/_posts/2014-11-10-playlist-pride.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Playlist Pride '
++feature: /uploads/2014/11/musicpride.jpg
+ author:
+   display_name: Bridie
+   login: bjune
+diff --git a/_posts/2014-11-11-consent-childs-game.html b/_posts/2014-11-11-consent-childs-game.html
+index 0f8d455..39e5b97 100644
+--- a/_posts/2014-11-11-consent-childs-game.html
++++ b/_posts/2014-11-11-consent-childs-game.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Consent is not a child's game
++feature: /uploads/2014/11/Screen-Shot-2014-11-11-at-1.27.04-pm.png
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2014-11-12-combat-self-doubt.html b/_posts/2014-11-12-combat-self-doubt.html
+index 6d4d799..254d818 100644
+--- a/_posts/2014-11-12-combat-self-doubt.html
++++ b/_posts/2014-11-12-combat-self-doubt.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Combat Self-Doubt
++feature: /uploads/2014/11/self-doubt.jpg
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2014-11-13-save-life.html b/_posts/2014-11-13-save-life.html
+index 99e03eb..2de0d25 100644
+--- a/_posts/2014-11-13-save-life.html
++++ b/_posts/2014-11-13-save-life.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'How to Save a Life: Bystander CPR'
++feature: /uploads/2014/09/c7f78cb0150213123737e38e9f5e7e04.jpg
+ author:
+   display_name: Kathy
+   login: kathy.h
+diff --git a/_posts/2014-11-14-expected-university.html b/_posts/2014-11-14-expected-university.html
+index 9b060b2..a27ce7e 100644
+--- a/_posts/2014-11-14-expected-university.html
++++ b/_posts/2014-11-14-expected-university.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'To Do What Is Expected of You: University'
++feature: /uploads/2014/11/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg
+ author:
+   display_name: Natasha
+   login: NatashaH
+diff --git a/_posts/2014-11-17-how-not-pregnan.html b/_posts/2014-11-17-how-not-pregnan.html
+index a7e6d3d..84247cf 100644
+--- a/_posts/2014-11-17-how-not-pregnan.html
++++ b/_posts/2014-11-17-how-not-pregnan.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'How to: Not Get Pregnant'
++feature: /uploads/2014/11/TO-PRINT-YESYES_o.jpg
+ author:
+   display_name: Emily
+   login: emily
+diff --git a/_posts/2014-11-18-responsible-sex-offenders.html b/_posts/2014-11-18-responsible-sex-offenders.html
+index 6896f89..d0e556f 100644
+--- a/_posts/2014-11-18-responsible-sex-offenders.html
++++ b/_posts/2014-11-18-responsible-sex-offenders.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: We are responsible for sex offenders
++feature: /uploads/2014/11/friends.jpg
+ author:
+   display_name: Maddy K.
+   login: madelineking44
+diff --git a/_posts/2014-11-19-anger-reflects-personal-growth.html b/_posts/2014-11-19-anger-reflects-personal-growth.html
+index 95a67e9..ce2569d 100644
+--- a/_posts/2014-11-19-anger-reflects-personal-growth.html
++++ b/_posts/2014-11-19-anger-reflects-personal-growth.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Anger Reflects on Her Personal Growth
++feature: /uploads/2014/11/lookingglass.jpg
+ author:
+   display_name: Guest Author
+   login: TonySoprano
+diff --git a/_posts/2014-11-21-confessions-stubborn-catholic.html b/_posts/2014-11-21-confessions-stubborn-catholic.html
+index e094fdc..723e65f 100644
+--- a/_posts/2014-11-21-confessions-stubborn-catholic.html
++++ b/_posts/2014-11-21-confessions-stubborn-catholic.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Confessions of a Stubborn Catholic
++feature: /uploads/2014/11/Murillo_immaculate_conception.jpg
+ author:
+   display_name: Agustina
+   login: amarianacci
+diff --git a/_posts/2014-12-02-stencil-badass-thing-design.html b/_posts/2014-12-02-stencil-badass-thing-design.html
+index 7bed142..6a15205 100644
+--- a/_posts/2014-12-02-stencil-badass-thing-design.html
++++ b/_posts/2014-12-02-stencil-badass-thing-design.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'How to: Stencil a Badass Thing of Your Own Design'
++feature: /uploads/2014/09/DSC01815b.jpg
+ author:
+   display_name: Kathy
+   login: kathy.h
+diff --git a/_posts/2014-12-03-high-heels.html b/_posts/2014-12-03-high-heels.html
+index 4e85c9b..21033b3 100644
+--- a/_posts/2014-12-03-high-heels.html
++++ b/_posts/2014-12-03-high-heels.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Good Feels In High Heels
++feature: /uploads/2014/02/tumblr_m633z1oD6o1qbhirbo7_r1_500.png
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2014-12-04-whole-new-world.html b/_posts/2014-12-04-whole-new-world.html
+index a9e6b1b..f29e725 100644
+--- a/_posts/2014-12-04-whole-new-world.html
++++ b/_posts/2014-12-04-whole-new-world.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: A Whole New World
++feature: /uploads/2014/12/pixx1.png
+ author:
+   display_name: smayjay
+   login: smayjay
+diff --git a/_posts/2014-12-05-im-not-slam-poet.html b/_posts/2014-12-05-im-not-slam-poet.html
+index e4afd0d..e966482 100644
+--- a/_posts/2014-12-05-im-not-slam-poet.html
++++ b/_posts/2014-12-05-im-not-slam-poet.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Why I'm Not a Slam Poet
++feature: /uploads/2014/12/notaslampoet.jpg
+ author:
+   display_name: Alex K.
+   login: alexk
+diff --git a/_posts/2014-12-08-playlist-supreme-tracks-bad-ass-girls.html b/_posts/2014-12-08-playlist-supreme-tracks-bad-ass-girls.html
+index 9b9ef0e..8f5f508 100644
+--- a/_posts/2014-12-08-playlist-supreme-tracks-bad-ass-girls.html
++++ b/_posts/2014-12-08-playlist-supreme-tracks-bad-ass-girls.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Playlist: Supreme tracks, with bad ass girls'
++feature: /uploads/2014/12/playlistsupreme2.png
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2014-12-11-fight-club.html b/_posts/2014-12-11-fight-club.html
+index dec8b0c..0917c94 100644
+--- a/_posts/2014-12-11-fight-club.html
++++ b/_posts/2014-12-11-fight-club.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Fight Club
++feature: /uploads/2014/10/fightclub.png
+ author:
+   display_name: Eloise
+   login: SimsEloise
+diff --git a/_posts/2014-12-12-food-face.html b/_posts/2014-12-12-food-face.html
+index 695970d..615a28f 100644
+--- a/_posts/2014-12-12-food-face.html
++++ b/_posts/2014-12-12-food-face.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Food for your Face
++feature: /uploads/2014/04/gigichocolateface-1024x682.jpg
+ author:
+   display_name: Liz
+   login: LizOdey
+diff --git a/_posts/2014-12-14-girls-flat3-need-lesbians-tv.html b/_posts/2014-12-14-girls-flat3-need-lesbians-tv.html
+index 4a7e822..0ecca4a 100644
+--- a/_posts/2014-12-14-girls-flat3-need-lesbians-tv.html
++++ b/_posts/2014-12-14-girls-flat3-need-lesbians-tv.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Girls, Flat3, and How I Need More Lesbians On TV.
++feature: /uploads/2014/09/flat-3-chinese-new-year.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2015-07-01-on-earthrise-extremism-electronics-and-empathy.html b/_posts/2015-07-01-on-earthrise-extremism-electronics-and-empathy.html
+index 28ec4b1..f8e6412 100644
+--- a/_posts/2015-07-01-on-earthrise-extremism-electronics-and-empathy.html
++++ b/_posts/2015-07-01-on-earthrise-extremism-electronics-and-empathy.html
+@@ -3,6 +3,8 @@ layout: post
+ status: publish
+ published: true
+ title: On earthrise, extremism, electronics and empathy
++feature: /uploads/2015/06/mo2.jpeg
++feature: /uploads/2015/07/ap-tv-disney-channel.jpg
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2015-07-03-getting-acting-game.html b/_posts/2015-07-03-getting-acting-game.html
+index ecfb41a..48e3cd3 100644
+--- a/_posts/2015-07-03-getting-acting-game.html
++++ b/_posts/2015-07-03-getting-acting-game.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Getting in the Acting Game
++feature: /uploads/2014/09/33H1.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2015-07-06-randa.html b/_posts/2015-07-06-randa.html
+index f77e6ef..a174ff0 100644
+--- a/_posts/2015-07-06-randa.html
++++ b/_posts/2015-07-06-randa.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Randa
++feature: /uploads/2015/07/randa-mrphotography.jpg
+ author:
+   display_name: Bridie
+   login: bjune
+diff --git a/_posts/2015-07-08-how-to-say-yes.html b/_posts/2015-07-08-how-to-say-yes.html
+index 42bfe2a..84cb20f 100644
+--- a/_posts/2015-07-08-how-to-say-yes.html
++++ b/_posts/2015-07-08-how-to-say-yes.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'How to: Say "Yes"'
++feature: /uploads/2015/07/travelprocon.jpg
+ author:
+   display_name: Caitlin
+   login: c.mackay
+diff --git a/_posts/2015-07-10-sorry-not-sorry.html b/_posts/2015-07-10-sorry-not-sorry.html
+index 59bd4fd..b6d53de 100644
+--- a/_posts/2015-07-10-sorry-not-sorry.html
++++ b/_posts/2015-07-10-sorry-not-sorry.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Sorry not sorry
++feature: /uploads/2015/07/IMG_8245.jpg
+ author:
+   display_name: Sophie E
+   login: Sophielikescake
+diff --git a/_posts/2015-07-13-how-to-train-your-universe.html b/_posts/2015-07-13-how-to-train-your-universe.html
+index 9ffac15..1225d90 100644
+--- a/_posts/2015-07-13-how-to-train-your-universe.html
++++ b/_posts/2015-07-13-how-to-train-your-universe.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: How to train your universe
++feature: /uploads/2015/07/inflation.gif
+ author:
+   display_name: Guest Author
+   login: TonySoprano
+diff --git a/_posts/2015-07-15-people-exist.html b/_posts/2015-07-15-people-exist.html
+index 937c5c7..e107405 100644
+--- a/_posts/2015-07-15-people-exist.html
++++ b/_posts/2015-07-15-people-exist.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Other People Exist
++feature: /uploads/2014/08/station.jpg
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2015-07-17-why-must-i-be-so-ladylike.html b/_posts/2015-07-17-why-must-i-be-so-ladylike.html
+index e94ecf8..9be01f0 100644
+--- a/_posts/2015-07-17-why-must-i-be-so-ladylike.html
++++ b/_posts/2015-07-17-why-must-i-be-so-ladylike.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Why must I be so ladylike?
++feature: /uploads/2015/06/11655109_10155686247010024_1715384590_n-1.jpg
+ author:
+   display_name: Sophia D. J.
+   login: Sophia
+diff --git a/_posts/2015-07-20-review-yes-please.html b/_posts/2015-07-20-review-yes-please.html
+index 4e34313..90e81ef 100644
+--- a/_posts/2015-07-20-review-yes-please.html
++++ b/_posts/2015-07-20-review-yes-please.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Review: Yes Please'
++feature: /uploads/2015/06/amyp.jpg
+ author:
+   display_name: Julia W.
+   login: Julia W.
+diff --git a/_posts/2015-07-23-introducing-fazerdaze.html b/_posts/2015-07-23-introducing-fazerdaze.html
+index 51ffce4..693c277 100644
+--- a/_posts/2015-07-23-introducing-fazerdaze.html
++++ b/_posts/2015-07-23-introducing-fazerdaze.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Introducing: Fazerdaze'
++feature: /uploads/2015/07/fazerdaze.jpg
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2015-07-29-21-things-employers-wish-you-knew-when-applying-for-jobs.html b/_posts/2015-07-29-21-things-employers-wish-you-knew-when-applying-for-jobs.html
+index fa18ef6..95d2b60 100644
+--- a/_posts/2015-07-29-21-things-employers-wish-you-knew-when-applying-for-jobs.html
++++ b/_posts/2015-07-29-21-things-employers-wish-you-knew-when-applying-for-jobs.html
+@@ -3,6 +3,8 @@ layout: post
+ status: publish
+ published: true
+ title: What Employers Wish You Knew When Applying for Jobs
++feature: /uploads/2015/06/desk.jpeg
++feature: /uploads/2015/07/grad-jobs-3.jpeg
+ author:
+   display_name: Harriet Geoghegan
+   login: harrietrose
+diff --git a/_posts/2015-07-31-the-science-of-cookies.html b/_posts/2015-07-31-the-science-of-cookies.html
+index 2a9f6ce..26165b8 100644
+--- a/_posts/2015-07-31-the-science-of-cookies.html
++++ b/_posts/2015-07-31-the-science-of-cookies.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: The Science of Cookies
++feature: /uploads/2015/07/6343791094_464ebf90a8_o.jpg
+ author:
+   display_name: Sophie E
+   login: Sophielikescake
+diff --git a/_posts/2015-08-03-gaining-a-realistic-perspective-of-action-heroes.html b/_posts/2015-08-03-gaining-a-realistic-perspective-of-action-heroes.html
+index defc1c3..b7f09ac 100644
+--- a/_posts/2015-08-03-gaining-a-realistic-perspective-of-action-heroes.html
++++ b/_posts/2015-08-03-gaining-a-realistic-perspective-of-action-heroes.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Gaining a realistic perspective of action heroes
++feature: /uploads/2015/08/rue.jpg
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2015-08-28-use-your-words.html b/_posts/2015-08-28-use-your-words.html
+index a751005..5bff6f0 100644
+--- a/_posts/2015-08-28-use-your-words.html
++++ b/_posts/2015-08-28-use-your-words.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Choose Your Words
++feature: /uploads/2015/08/Face-With-No-Good.jpg
+ author:
+   display_name: Harriet Geoghegan
+   login: harrietrose
+diff --git a/_posts/2015-09-10-whitest-dreams.html b/_posts/2015-09-10-whitest-dreams.html
+index 17e41f7..490dc17 100644
+--- a/_posts/2015-09-10-whitest-dreams.html
++++ b/_posts/2015-09-10-whitest-dreams.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Whitest Dreams?
++feature: /uploads/2015/09/whitestdreams.png
+ author:
+   display_name: Julia W.
+   login: Julia W.
+diff --git a/_posts/2015-10-16-introducing-the-prettiots.html b/_posts/2015-10-16-introducing-the-prettiots.html
+index a3d61c5..f3abcd6 100644
+--- a/_posts/2015-10-16-introducing-the-prettiots.html
++++ b/_posts/2015-10-16-introducing-the-prettiots.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Introducing: The Prettiots'
++feature: /uploads/2014/09/theprettiots.jpg
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2015-11-02-i-just-really-love-comics-you-guys.html b/_posts/2015-11-02-i-just-really-love-comics-you-guys.html
+index e1946d4..e5253a3 100644
+--- a/_posts/2015-11-02-i-just-really-love-comics-you-guys.html
++++ b/_posts/2015-11-02-i-just-really-love-comics-you-guys.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: I just really love comics you guys
++feature: /uploads/2015/09/comix.png
+ author:
+   display_name: Maddy
+   login: maddy
+diff --git a/_posts/2015-11-09-the-dreamer-generation.html b/_posts/2015-11-09-the-dreamer-generation.html
+index aed2fc7..3965cd8 100644
+--- a/_posts/2015-11-09-the-dreamer-generation.html
++++ b/_posts/2015-11-09-the-dreamer-generation.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: The Dreamer Generation
++feature: /uploads/2014/11/dreamer.jpg
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2016-04-14-im-blonde-and-thats-whats-irrelevent.html b/_posts/2016-04-14-im-blonde-and-thats-whats-irrelevent.html
+index 0ad94bf..e94c318 100644
+--- a/_posts/2016-04-14-im-blonde-and-thats-whats-irrelevent.html
++++ b/_posts/2016-04-14-im-blonde-and-thats-whats-irrelevent.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: I'm blonde, and THAT'S what's irrelevent
++feature: /uploads/2015/08/Sophia-article-2-2808.jpeg
+ author:
+   display_name: Harriet Geoghegan
+   login: harrietrose
+diff --git a/_posts/2016-04-15-cool-kid.html b/_posts/2016-04-15-cool-kid.html
+index a28d519..2587a71 100644
+--- a/_posts/2016-04-15-cool-kid.html
++++ b/_posts/2016-04-15-cool-kid.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Being A Cool Kid
++feature: /uploads/2014/02/coolkid.png
+ author:
+   display_name: Sophia
+   login: sophia.f
+diff --git a/_posts/2016-04-17-introducing-jessie-fenton.html b/_posts/2016-04-17-introducing-jessie-fenton.html
+index 002795c..a5d4998 100644
+--- a/_posts/2016-04-17-introducing-jessie-fenton.html
++++ b/_posts/2016-04-17-introducing-jessie-fenton.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Introducing: Jessie Fenton'
++feature: /uploads/2016/04/introducing.png
+ author:
+   display_name: Bridie
+   login: bjune
+diff --git a/_posts/2016-04-18-playlist-songs-to-listen-to-when-it-rains.html b/_posts/2016-04-18-playlist-songs-to-listen-to-when-it-rains.html
+index 2e71024..e05cb88 100644
+--- a/_posts/2016-04-18-playlist-songs-to-listen-to-when-it-rains.html
++++ b/_posts/2016-04-18-playlist-songs-to-listen-to-when-it-rains.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: 'Playlist: Songs to listen to when it rains'
++feature: /uploads/2016/04/pluviophile.jpg
+ author:
+   display_name: Adriana
+   login: Desiretoinspire
+diff --git a/_posts/2016-04-21-feminism-is-a-ramp.html b/_posts/2016-04-21-feminism-is-a-ramp.html
+index 85c5347..d8af805 100644
+--- a/_posts/2016-04-21-feminism-is-a-ramp.html
++++ b/_posts/2016-04-21-feminism-is-a-ramp.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: Feminism is a ramp
++feature: /uploads/2016/04/Screen-Shot-2016-02-19-at-6.41.46-pm.png
+ author:
+   display_name: Serena
+   login: serena
+diff --git a/_posts/2016-05-04-god-and-dice-and-quantum-physics.html b/_posts/2016-05-04-god-and-dice-and-quantum-physics.html
+index 1819e2d..3192910 100644
+--- a/_posts/2016-05-04-god-and-dice-and-quantum-physics.html
++++ b/_posts/2016-05-04-god-and-dice-and-quantum-physics.html
+@@ -3,6 +3,7 @@ layout: post
+ status: publish
+ published: true
+ title: God and Dice and Quantum Physics
++feature: /uploads/2015/08/8cb3f4877af8652d52d033af0ce4ff.jpg
+ author:
+   display_name: Maddy
+   login: maddy
+@@ -23,7 +24,6 @@ tags:
+ - quantum mechanics
+ - albert einstein
+ comments: []
+-feature: /uploads/2015/08/8cb3f4877af8652d52d033af0ce4ff.jpg
+ ---
+ <p><span class="pre">Albert Einstein. Everyone has heard of him.</span> From a young age he is presented to children as the epitome of genius. His image is often what comes to mind when one is told to picture a scientist. Old, grey haired, moustachioed, a little bit crazy. A simple equation that is only useful to a handful of people known and repeated by children. E=mc<sup>2</sup>. It rolls off the tongue. One doesn&rsquo;t need to know the meaning of it just that it had a huge impact on physics at the time of its conception.</p>
+ <p>The deeper and deeper you get into physics the more and more stories you hear about this marvelous human. It forms a beautiful picture of intelligence, wit, humility and admiration of the physical world. If you want to know what Albert Einstein contributed to science you can get that information almost anywhere. Try trusty old <a href="https://en.wikipedia.org/wiki/Albert_Einstein#Scientific_career">Wikipedia</a>. But to really get an idea of how amazing he was you need to be finding anecdotes and letters written between him and other great minds of the time. It&rsquo;s particularly hard to find true anecdotes about Einstein. His name is synonymous with &rdquo;genius&rdquo; and many stories have popped up over the years about Einstein&rsquo;s cheeky antics and witty comebacks. Most of these are just reworded jokes, all of which are dubious as to their veracity.</p>
